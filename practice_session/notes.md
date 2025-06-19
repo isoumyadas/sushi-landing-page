@@ -133,3 +133,54 @@ content width < Width < Flex-basis < min/max-width
 ---
 
 ## Grid
+
+grid-tempelate-columns
+grid-tempelate-rows
+grid-tempelate : for both rows / columns
+
+// Remember: if you set grid-templeate-rows: 100px auto then the auto will be fit content, But for columns auto will be 100% of screen size available
+
+// we can use minmax(400px, 800px) stop at 400px and grow it 800px;
+
+// If in future you have many components then you can use grid-auto-columns/rows
+
+// Items: grid column shorthand for grid-column-start and end.
+
+## Design
+
+### Color theory
+
+- Red : Love, Engertic
+- Green : Freshness, Safety, Growth
+- Yellow : Joy, Intellect, Attention
+- Blue : Stability, Trust, Setenity
+- Purple : Royalty, Wealth, Feminity
+
+### Typography
+
+- serif => pushed down (Historic)
+  - Traditional, Stable, Respectable
+- Sans-serif
+  - Sensible, Simple, Straightfoward
+- Script
+  - Personal Creative Elegant
+- Display
+  - Friendly, Loud, Amusing
+- Modern
+  - Stylish, Chic, Smart
+
+### UI Design
+
+Try to keep only 40-60 char per line that feel comfortable to read.
+
+- Alignment matters (use less alignment points)
+- Whitespace
+- Audience (design for them)
+- Layout
+
+### UX Design
+
+- Simplicity
+- Consistency
+- Use F-Layout & Z-layout
+- All Platform Design
